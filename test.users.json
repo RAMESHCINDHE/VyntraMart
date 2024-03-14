@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "65f25f1fbcfc7d7421633205"
+  },
+  "username": "testuser",
+  "name": "Test User",
+  "passwordHash": "$2b$10$nzbMx0mkZh3A6jgnzYht7OrqDfOfU2VqJARVHg9PKRFcIyfq4pbXO",
+  "cart": [
+    {
+      "product": {
+        "$oid": "65f261f3e4a4fae28d97752f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "65f266f4c25d68db9b97514e"
+      }
+    },
+    {
+      "product": {
+        "$oid": "65f261eae4a4fae28d97752d"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "65f266f4c25d68db9b97514f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f274480119be4703923a91"
+  },
+  "username": "sameer",
+  "passwordHash": "$2b$10$VosDU3cCLxhyi9hUcjD8r.lKGM/.uuIQGplsrsUb0BUC.ioW6Kqw.",
+  "cart": [
+    {
+      "product": {
+        "$oid": "65f298db09d3127bef71d877"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "65f2a8a1f995b69ff9601acb"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f292dd09d3127bef71d83b"
+  },
+  "username": "sameer123",
+  "passwordHash": "$2b$10$XFINMArJWTMh14S15WQGIuDpGTMEFPPtgkpqONF4b5xE5rfaPNpq.",
+  "cart": [
+    {
+      "product": {
+        "$oid": "65f261f3e4a4fae28d97752f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "65f292ea09d3127bef71d844"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2a8b0f995b69ff9601acf"
+  },
+  "username": "ramesh",
+  "passwordHash": "$2b$10$HUBIkHgJ7UMAPx3ooM4qrOVWh2GLMbHGuH.Af5h4Ffb.QPQVc.LS.",
+  "cart": [
+    {
+      "product": {
+        "$oid": "65f261fde4a4fae28d977531"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "65f2a909f995b69ff9601ad8"
+      }
+    }
+  ],
+  "__v": 0
+}]

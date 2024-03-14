@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "65f261f3e4a4fae28d97752f"
+  },
+  "name": "trousers 2",
+  "description": "This is product 5",
+  "image": "https://content.moss.co.uk/images/original/966368426_01.jpg",
+  "price": 500,
+  "category": "Clothing",
+  "subCategory": "Trouser",
+  "brand": "Brand E",
+  "rating": 4.1,
+  "numReviews": 50,
+  "countInStock": 29,
+  "createdAt": {
+    "$date": "2024-03-14T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T00:00:00.000Z"
+  },
+  "sellerName": "Seller E",
+  "sellerId": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f261fde4a4fae28d977531"
+  },
+  "name": "yellow shirt",
+  "description": "This is product 6",
+  "image": "https://cdna.lystit.com/photos/2013/09/17/polo-ralph-lauren-yellow-classic-long-sleeve-shirt-product-2-13545215-619599243.jpeg",
+  "price": 600,
+  "category": "Clothing",
+  "subCategory": "Shirt",
+  "brand": "Brand F",
+  "rating": 4.4,
+  "numReviews": 60,
+  "countInStock": 28,
+  "createdAt": {
+    "$date": "2024-03-14T00:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T00:00:00.000Z"
+  },
+  "sellerName": "Seller F",
+  "sellerId": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f298db09d3127bef71d877"
+  },
+  "name": "Shirt white",
+  "description": "shirt white",
+  "image": "https://i.pinimg.com/originals/82/79/db/8279dba53beb8f454fcee5beb9df7d35.jpg",
+  "price": 34,
+  "category": "Clothing",
+  "subCategory": "Shirt",
+  "brand": "brand 1",
+  "rating": 34,
+  "numReviews": 34,
+  "countInStock": 2,
+  "sellerName": "seller a",
+  "sellerId": 23233,
+  "createdAt": {
+    "$date": "2024-03-14T06:27:39.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2a9fff995b69ff9601ae6"
+  },
+  "name": "levis",
+  "description": "trouser",
+  "image": "https://us.stuartslondon.com/images/levis-511-fender-slim-denim-jeans-04511-2179-p28513-107487_image.jpg",
+  "price": 555,
+  "category": "Clothing",
+  "subCategory": "Trouser",
+  "brand": "brand",
+  "rating": 23,
+  "numReviews": 233,
+  "countInStock": 22,
+  "sellerName": "selle",
+  "sellerId": 2323,
+  "createdAt": {
+    "$date": "2024-03-14T07:40:47.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2aa0cf995b69ff9601ae8"
+  },
+  "name": "levis",
+  "description": "trouser",
+  "image": "https://us.stuartslondon.com/images/levis-511-fender-slim-denim-jeans-04511-2179-p28513-107487_image.jpg",
+  "price": 555,
+  "category": "Clothing",
+  "subCategory": "Trouser",
+  "brand": "brand",
+  "rating": 23,
+  "numReviews": 233,
+  "countInStock": 22,
+  "sellerName": "selle",
+  "sellerId": 2323,
+  "createdAt": {
+    "$date": "2024-03-14T07:41:00.486Z"
+  },
+  "__v": 0
+}]
